@@ -8,5 +8,6 @@ int main(int argc, char *argv[])
     Widget w;
     w.show();
     cout << Hello git << endl;
+	cout<< adding commit message via github<< endl
     return a.exec();
 }
