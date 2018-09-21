@@ -1,7 +1,7 @@
 #include "widget.h"
 #include <QApplication>
 #inlude <iostream>
-
+#inside Push branch
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
