@@ -9,6 +9,6 @@ Widget::Widget(QWidget *parent) :
 }
 
 Widget::~Widget()
-{
+{wiufhiuwuehifhiuweh
     delete ui;
 }
